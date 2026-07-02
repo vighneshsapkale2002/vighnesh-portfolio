@@ -6,7 +6,7 @@ import {
   FaArrowRight,
 } from "react-icons/fa";
 
-import heroImage from "../assets/hero.jpeg";
+import heroImage from "/hero.jpeg";
 
 const Hero = () => {
   return (

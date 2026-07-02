@@ -31,7 +31,7 @@ const About = () => {
           <div className="flex justify-center">
             <div className="relative">
               <img
-                src="/src/assets/hero.jpeg"
+                src="/hero.jpeg"
                 alt="Profile"
                 className="w-80 rounded-3xl border-4 border-cyan-500 shadow-2xl"
               />

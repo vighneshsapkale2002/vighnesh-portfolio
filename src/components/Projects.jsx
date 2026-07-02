@@ -18,7 +18,7 @@ const projects = [
   {
     id: 1,
     title: "SoftTrust Corporate Website",
-    image: "/src/assets/softtrust.png",
+    image: "/softtrust.png",
     description:
       "Developed a modern corporate website with responsive UI, reusable React components, animations, SEO-friendly pages, and optimized performance.",
     technologies: [
@@ -34,7 +34,7 @@ const projects = [
   {
     id: 2,
     title: "Admin Dashboard",
-    image: "/src/assets/admin-dashboard.png",
+    image: "/admin-dashboard.png",
     description:
       "Designed and developed a responsive admin dashboard with authentication, analytics, CRUD operations, charts, user management, filtering, and dark mode.",
     technologies: [
@@ -50,7 +50,7 @@ const projects = [
   {
     id: 3,
     title: "News Application",
-    image: "/src/assets/inshorts.png",
+    image: "/inshorts.png",
     description:
       "A real-time news application using News API with category filters, search functionality, responsive layouts, and optimized user experience.",
     technologies: [

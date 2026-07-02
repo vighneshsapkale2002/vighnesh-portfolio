@@ -40,7 +40,7 @@ const Navbar = () => {
             ))}
 
             <a
-              href="/src/assets/Vighnesh_Professional_Resume_2026.pdf"
+              href="/Vighnesh_Professional_Resume_2026.pdf"
               download
               className="flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded-full transition duration-300"
             >

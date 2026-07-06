@@ -20,7 +20,6 @@ const experiences = [
     responsibilities: [
       "Developed responsive React.js web applications.",
       "Built reusable UI components for enterprise software.",
-      "Designed Outlook and Gmail compatible HTML email templates.",
       "Created responsive landing pages and marketing websites.",
       "Integrated REST APIs into frontend applications.",
       "Optimized website performance and loading speed.",

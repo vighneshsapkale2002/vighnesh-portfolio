@@ -144,7 +144,7 @@ const Footer = () => {
             <div className="flex gap-4 mt-8">
 
               <a
-                href="https://github.com/yourgithub"
+                href="https://github.com/vighneshsapkale2002"
                 target="_blank"
                 rel="noreferrer"
                 className="w-12 h-12 rounded-full bg-slate-800 hover:bg-cyan-500 flex justify-center items-center transition"
@@ -153,7 +153,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://linkedin.com/in/yourlinkedin"
+                href="https://www.linkedin.com/in/vighnesh-sapkale-24447a257"
                 target="_blank"
                 rel="noreferrer"
                 className="w-12 h-12 rounded-full bg-slate-800 hover:bg-cyan-500 flex justify-center items-center transition"
